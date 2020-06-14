@@ -1,0 +1,5 @@
+package gtp
+
+func F() {
+
+}
